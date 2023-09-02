@@ -12,7 +12,7 @@ Base: 10.0.2
 Now Update Apkedior UX
 
  Please Click Browser Download ",
-"download":"https://t.me/apkedior_ux"
+"download":"https://t.me/apkeditor_ux"
 }
   ]
 }
