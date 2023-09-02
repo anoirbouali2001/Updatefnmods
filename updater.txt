@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"9.62",
+ "version":"1.10.1",
  "title":"Update Disponible",
  "description":"ApkEditor Official V10.0.2
 
