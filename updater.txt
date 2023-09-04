@@ -3,17 +3,17 @@
     {
  "version":"1.10.2",
  "title":"Update Disponible",
- "description":"ApkEditor Official V10.0.2
+ "description":"APK Editor UX
+V1.10.2
 
-Base: 10.0.2
+Base: 1.10.2
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-We have another fixes version 
+Now Application Update 
 
- Checking the link now? ",
-
-"download":"https://t.me/apkeditor_ux"
+ Please Check Your Link Visiting ",
+"download":"https://youtu.be/rY2otd2NacA"
 }
   ]
 }
