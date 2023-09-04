@@ -5,15 +5,17 @@
  "title":"Update Disponible",
  "description":"APK Editor UX
 V1.10.2
-
+What's Now:
 Fix Bugs Errors
+Added Now Design
+Intro Slider Material
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 Now Application Update 
 
  Please Check Your Link Visiting ",
-"download":"https://youtu.be/rY2otd2NacA"
+"download":"https://t.me/apkeditor_ux"
 }
   ]
 }
