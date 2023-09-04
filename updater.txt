@@ -9,10 +9,11 @@ Base: 10.0.2
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-- About latest version:
-• Fix bug.
-• Add new Design.
-• Add another option. ",
+• About latest version:
+• Fix bugs errors.
+• Add new Designs.
+• Add plus option. 
+• Optimise build.",
 "download":"https://t.me/apkeditor_ux"
 }
   ]
