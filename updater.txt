@@ -9,7 +9,7 @@ Base: 10.0.2
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Please update faster
+Please update faster",
 "download":"https://t.me/apkeditor_ux"
 }
   ]
