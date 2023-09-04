@@ -6,7 +6,7 @@
  "description":"APK Editor UX
 V1.10.2
 
-Base: 1.10.2
+Fix Bugs Errors
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
