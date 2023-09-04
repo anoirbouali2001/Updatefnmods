@@ -9,9 +9,10 @@ Base: 10.0.2
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Now Update Apkedior UX
-
- Please Click Browser Download ",
+- About latest version:
+• Fix bug.
+• Add new Design.
+• Add another option. ",
 "download":"https://t.me/apkeditor_ux"
 }
   ]
