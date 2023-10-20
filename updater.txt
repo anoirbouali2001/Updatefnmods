@@ -3,19 +3,10 @@
     {
  "version":"1.10.2",
  "title":"Update Disponible",
- "description":"APK Editor UX
-V1.10.2
-What's Now:
-Remove Auto Crash
-Fix Bugs Errors
-Added UI Design
-Intro Slider Material
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-Now Application Update 
-
- Please Check Your Link Visiting ",
+ "description":"Please update your apk editor ux:
+• Added new progressbar.
+• Remove and update outline icons(google).
+• Remove left drawer and add new wave effect view.",
 "download":"https://t.me/apkeditor_ux"
 }
   ]
