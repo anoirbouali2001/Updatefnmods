@@ -9,7 +9,7 @@
 • Remove drawer".
 • Update the dex.
 • Remove crashed.
-• Adde animation.,
+• Adde animation.",
 "download":"https://t.me/apkeditor_ux"
 }
   ]
