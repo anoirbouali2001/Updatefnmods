@@ -1,16 +1,1 @@
-{
-  "fnmods_update": [
-    {
- "version":"1.10.1",
- "title":"Update Disponible",
- "description":"CHECK UPDATE:
-• Fix bugs error.
-• icons (google).
-• Remove drawer".
-• Update the dex.
-• Remove crashed.
-• Adde animation. ",
-"download":"https://t.me/apkeditor_ux"
-}
-  ]
-}
+
