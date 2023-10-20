@@ -3,10 +3,13 @@
     {
  "version":"1.10.2",
  "title":"Update Disponible",
- "description":"✓ Please update your apk editor ux:
-• Added new progressbar and listview animation.
-• Remove and update outline icons(google).
-• Remove left drawer and add new wave effect view.",
+ "description":"CHECK UPDATE!
+• Fix bugs error.
+• icons (google).
+• Remove drawer".
+• Update the dex.
+• Remove crashed.
+• Adde animation.,
 "download":"https://t.me/apkeditor_ux"
 }
   ]
