@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"1.10.2",
+ "version":"1.10.1",
  "title":"Update Disponible",
  "description":"CHECK UPDATE!
 • Fix bugs error.
@@ -9,7 +9,7 @@
 • Remove drawer".
 • Update the dex.
 • Remove crashed.
-• Adde animation.",
+• Adde animation. ",
 "download":"https://t.me/apkeditor_ux"
 }
   ]
