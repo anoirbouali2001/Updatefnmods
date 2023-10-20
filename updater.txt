@@ -1,18 +1,21 @@
 {
   "fnmods_update": [
     {
- "version":"1.10.3",
+ "version":"1.10.1",
  "title":"Update Disponible",
- "description":"CHECK UPDATE!
-• Fix bugs error.
-• icons (google).
-• Remove drawed".
-• Update the dex.
-• Remove crashed.
-• Adde animation.
+ "description":"APK Editor UX
+V1.10.2
+What's Now:
+Remove Auto Crash
+Fix Bugs Errors
+Added UI Design
+Intro Slider Material
+
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
 Now Application Update 
-Please Check Your Link Visiting ",
+
+ Please Check Your Link Visiting ",
 "download":"https://t.me/apkeditor_ux"
 }
   ]
