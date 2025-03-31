@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"1.10.1",
+ "version":"1.10.2",
  "title":"Update Disponible",
  "description":"APK Editor Studio
 V1.10.2
