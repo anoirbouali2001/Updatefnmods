@@ -1,10 +1,10 @@
 {
   "fnmods_update": [
     {
- "version":"1.10.0",
+ "version":"1.10.1",
  "title":"Update Disponible",
  "description":"APK Editor Studio
-V1.10.0
+V1.10.1
 What's Now:
 Remove Auto Crash
 Fix Bugs Errors
